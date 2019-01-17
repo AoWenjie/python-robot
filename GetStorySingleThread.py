@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-
+ttt
 serverName = 'http://www.biquge.com.cn'
 storyUrls = [] #每章小说的URL
 storyNames = [] #每章小说的名字
